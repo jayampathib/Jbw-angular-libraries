@@ -1,5 +1,5 @@
 # JbwAngularLibraries
-### Mannually create Demo project to ruun and clientside debug package library after import it inside demo project.
+### Mannually create Demo project to run, create package library and import it inside demo project and finally client side library was debug using DEMO project.
 
 1. Create angular project and create DEMO PROJECT manually using this
 2. move angular application in to `projects\jbw-angular-library-demo\src`
