@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve --project jbw-angular-library-demo",
     "build": "ng build",
+    "build:sample": "npm run build -- --project jbw-sample-library",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
